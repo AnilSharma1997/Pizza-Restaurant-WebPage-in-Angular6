@@ -1,0 +1,21 @@
+Step 1: npm install --save @angular/material @angular/cdk
+
+Step 2: npm install --save @angular/animations
+
+Step 3: @import "~@angular/material/prebuilt-themes/indigo-pink.css"; ------> In styles.css
+
+Step 4: npm install --save hammerjs
+
+Step 5: <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">  -------> In index.html
+
+Step 6:(i)   import {MatToolbarModule} from '@angular/material/toolbar';
+             import { FlexLayoutModule } from '@angular/flex-layout';
+             import {BrowserAnimationsModule} from '@angular/platform-browser/animations'; +..... --> Add in app.module.ts
+
+       (ii)  ngModules({
+             imports:[
+                 MatToolbarModule,
+                 FlexLayoutModule,
+                 BrowserAnimationsModule
+             ]  
+ 
