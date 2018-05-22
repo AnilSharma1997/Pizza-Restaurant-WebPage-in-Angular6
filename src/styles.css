@@ -10,3 +10,16 @@ body{
 	margin:20px;
 	display: flex;
 }
+
+.background-primary {
+	background-color: #512da8 !important;
+  }
+  .background-accent {
+	background-color: #ffc107 !important;
+  }
+  .text-floral-white {
+	color: floralwhite !important;
+  }
+  .flex-spacer {
+	flex: 1 1 auto;
+  }
