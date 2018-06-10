@@ -21,3 +21,4 @@ export class DishService {
     return DISHES.filter((dish) => dish.featured)[0];
   }
 }
+  
