@@ -22,6 +22,7 @@ import { AppRoutingModule} from './app-routing/app-routing.module';
 import { LoginComponent } from './login/login.component';
 
 import { FormsModule } from '@angular/forms'; 
+import { ReactiveFormsModule } from '@angular/forms';
 
 import {
   MatFormFieldModule,
@@ -78,6 +79,7 @@ import {
     BrowserAnimationsModule,
     AppRoutingModule,
     FormsModule, 
+    ReactiveFormsModule,
 
     //material    
     MatFormFieldModule,    
