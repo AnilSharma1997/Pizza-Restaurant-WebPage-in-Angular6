@@ -1,26 +1,31 @@
-# Intro2angular
+# Pizza-Restaurant-WebPage
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+This is a front end web app. This is made for consumers. It provides a platform for consumers where they can see the details the details of dishes and give feedback to us of that particular dish.They also reserve the table online.
+
+## Technology used:
+- Angular 6
+- Bootstrap
+- HTML5
+- CSS3
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Screenshots:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## - Home page
+![alt text](https://github.com/AnilSharma1997/Pizza-Restaurant-WebPage-in-Angular6/blob/master/Screenshots/Home.png)
 
-## Build
+## - Menu Details
+![alt text](https://github.com/AnilSharma1997/Pizza-Restaurant-WebPage-in-Angular6/blob/master/Screenshots/Menu.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## - Dish Details and Feedback
+![alt text](https://github.com/AnilSharma1997/Pizza-Restaurant-WebPage-in-Angular6/blob/master/Screenshots/Menu_Feedback.png)
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## - Login and Reserve Table
+![alt text](https://github.com/AnilSharma1997/Pizza-Restaurant-WebPage-in-Angular6/blob/master/Screenshots/Login.JPG)
+![alt text](https://github.com/AnilSharma1997/Pizza-Restaurant-WebPage-in-Angular6/blob/master/Screenshots/Reserve_Table.JPG)
 
 ## Further help
 
