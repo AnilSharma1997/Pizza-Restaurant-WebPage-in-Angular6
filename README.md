@@ -4,6 +4,7 @@ This is a front end web app. This is made for consumers. It provides a platform 
 
 ## Technology used:
 - Angular 6
+- Angular Material
 - Bootstrap
 - HTML5
 - CSS3
