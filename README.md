@@ -1,6 +1,6 @@
 # Pizza-Restaurant-WebPage
 
-This is a front end web app. This is made for consumers. It provides a platform for consumers where they can see the details the details of dishes and give feedback to us of that particular dish.They also reserve the table online.
+This is a front end web app. This is made for consumers. It provides a platform for consumers where they can know about offers on pizza, varieties of pizza and quality of pizza and give feedback to us of that particular pizza.They can also reserve their seat online.
 
 ## Technology used:
 - Angular 6
